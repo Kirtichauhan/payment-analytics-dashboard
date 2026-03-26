@@ -1,5 +1,3 @@
-pandas
-streamlit
-sqlalchemy
-plotly
-faker
+streamlit>=1.25.0
+pandas>=2.0.0
+plotly>=5.20.0
