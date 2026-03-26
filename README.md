@@ -17,3 +17,5 @@ Charts and tables are created using **Plotly** for dynamic, interactive visualiz
 - Visualizes key metrics with bar charts, pie charts, and tables
 - Easily extendable to real data sources
 
+## Demo
+Live demo link:- https://payment-analytics-dashboard-u8xsfuvtk2wyrhx2wf4usc.streamlit.app/
