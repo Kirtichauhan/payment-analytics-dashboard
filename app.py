@@ -15,6 +15,7 @@ def load_data():
     return df
 
 df = load_data()
+df.fillna("Unknown", inplace=True)
 
 # Sidebar filters
 st.sidebar.header("Filters")
