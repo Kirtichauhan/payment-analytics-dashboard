@@ -11,7 +11,7 @@ st.title("Payment Analytics Dashboard")
 # Load data
 @st.cache_data
 def load_data():
-    df = pd.read_csv("data/realistic_payment_data.csv", parse_dates=['timestamp'])
+    df = pd.read_csv("realistic_payment_data.csv", parse_dates=['timestamp'])
     return df
 
 df = load_data()
