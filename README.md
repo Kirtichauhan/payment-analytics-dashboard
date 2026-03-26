@@ -17,8 +17,3 @@ Charts and tables are created using **Plotly** for dynamic, interactive visualiz
 - Visualizes key metrics with bar charts, pie charts, and tables
 - Easily extendable to real data sources
 
-## Getting Started
-
-1. Clone this repository:
-```bash
-git clone https://github.com/your-username/payment-analytics-dashboard.git
